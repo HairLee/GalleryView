@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_cameraselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-mdpi\\ic_cameraselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_videoselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-mdpi\\ic_videoselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_allphotoselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-mdpi\\ic_allphotoselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_allphoto.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-mdpi\\ic_allphoto.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_videodeselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-mdpi\\ic_videodeselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_cameradeselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-mdpi\\ic_cameradeselect.png"
+    }
+]

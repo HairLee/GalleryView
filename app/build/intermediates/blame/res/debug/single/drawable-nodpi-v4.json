@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_camera.xml",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-nodpi\\selector_camera.xml"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\list_selector.xml",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-nodpi\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_allpic.xml",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-nodpi\\selector_allpic.xml"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_video.xml",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-nodpi\\selector_video.xml"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\transparent.xml",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-nodpi\\transparent.xml"
+    }
+]

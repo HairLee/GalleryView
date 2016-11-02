@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_videoselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\ic_videoselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_videodeselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\ic_videodeselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_cameradeselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\ic_cameradeselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_cameraselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\ic_cameraselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_allphotoselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\ic_allphotoselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_allphoto.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\ic_allphoto.png"
+    }
+]

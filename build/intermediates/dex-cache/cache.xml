@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\ProjectGit\OwnGalleryView\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1_5a0eb58dd284528707685bedd936fc5a6795fbd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProjectGit\OwnGalleryView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="512618d81c59cf7de2e2efe786f93fa211b12cdf">
+        <dex dex="D:\ProjectGit\OwnGalleryView\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_601d878adc40cc247390500e19ec58d021f284f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProjectGit\OwnGalleryView\app\libs\universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3526df34297bab9b9cc33d93d6e68f60fc2f94ea">
+        <dex dex="D:\ProjectGit\OwnGalleryView\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-SNAPSHOT-with-sources_675beaffe6dba56c7c0716bd7c14172d04bade89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProjectGit\OwnGalleryView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\ProjectGit\OwnGalleryView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.1_97ffd41afb66aa0cb966739813e8a655c6877ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProjectGit\OwnGalleryView\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\ProjectGit\OwnGalleryView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.1_de0c86a160f8f66feb6ea9165267c94c56d68623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProjectGit\OwnGalleryView\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\ProjectGit\OwnGalleryView\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1_385aef8b57eb7865c36e027a6ca9e58a78afe975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProjectGit\OwnGalleryView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="309fffbb577cde88af7aa0a10c45fd59730c0149">
+        <dex dex="D:\ProjectGit\OwnGalleryView\app\build\intermediates\pre-dexed\debug\instant-run_2cff0718eb0bb135034c44540e81cbaf29361197.jar" />
+    </item>
+
+</items>

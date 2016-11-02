@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_videoselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-xhdpi\\ic_videoselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_allphoto.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-xhdpi\\ic_allphoto.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_allphotoselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-xhdpi\\ic_allphotoselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cameraselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-xhdpi\\ic_cameraselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_videodeselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-xhdpi\\ic_videodeselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cameradeselect.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-xhdpi\\ic_cameradeselect.png"
+    },
+    {
+        "merged": "D:\\ProjectGit\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nophotos.9.png",
+        "source": "D:\\ProjectGit\\OwnGalleryView\\app\\src\\main\\res\\drawable-xhdpi\\nophotos.9.png"
+    }
+]
